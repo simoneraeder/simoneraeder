@@ -37,7 +37,7 @@ Olá! Me chamo **Simone Raeder**, sou estudante de Ciência da Computação e de
 ## 🌐 Me encontre por aí
 
 - [GitHub](https://github.com/simoneraeder)
-- [LinkedIn](https://www.linkedin.com/in/simone-raeder-5a77b21b7)
+- [LinkedIn](https://www.linkedin.com/in/simoneraeder)
 
 ---
 
