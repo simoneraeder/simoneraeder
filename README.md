@@ -1,6 +1,6 @@
 # 👩‍💻 Simone Raeder
 
-Olá! Me chamo **Simone Raeder**, sou estudante de Ciência da Computação e desenvolvedora em formação, apaixonada por tecnologia, organização e aprendizado contínuo. Busco transição de carreira para a área de tecnologia com foco em desenvolvimento **Front-End**, mas também com conhecimentos em **Back-End**, banco de dados e controle de versões.
+Olá! Me chamo **Simone Raeder**, sou estudante de Ciência da Computação apaixonada por tecnologia, organização e aprendizado contínuo.
 
 ---
 
