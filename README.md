@@ -58,7 +58,7 @@ https://github.com/simoneraeder/Treinando-Python
 
 
 🔹 Práticas de JavaScript  
-https://github.com/OpalinaLua/TrabalhoFinal/pull/8 ->Trabalho Final em grupo do curso de programação front-end no Senai.
+https://github.com/OpalinaLua/TrabalhoFinal ->Trabalho Final em grupo do curso de programação front-end no Senai.
 https://github.com/simoneraeder/modelosite  
 https://github.com/simoneraeder/meus-repos
 https://github.com/simoneraeder/lista-desejos
