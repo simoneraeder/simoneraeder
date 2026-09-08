@@ -72,16 +72,17 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-6B4FBB?style=flat-square&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=kanban&logoColor=white)
 
 </div>
 
-#### 🧠 **Soft Skills & Metodologias**
+#### 🧠 **Soft Skills **
 ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho_em_Equipe-0070F3?style=flat-square&logo=users&logoColor=white)
 ![Comunicação](https://img.shields.io/badge/Comunicação_Assertiva-107C41?style=flat-square&logo=chat&logoColor=white)
 ![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas-FFB900?style=flat-square&logo=target&logoColor=white)
 ![Visão Analítica](https://img.shields.io/badge/Visão_Analítica-E81123?style=flat-square&logo=analytics&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6B4FBB?style=flat-square&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=kanban&logoColor=white)
+
 
 ---
 ### 📊 **Estatísticas do GitHub**
