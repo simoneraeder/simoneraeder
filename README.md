@@ -75,13 +75,13 @@
 </div>
 
 ---
-
 ### 📊 **Estatísticas do GitHub**
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simoneraeder&show_icons=true&theme=radial&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simoneraeder&layout=compact&theme=radial&hide_border=true" height="150" alt="Linguagens mais usadas" />
+![Repositórios Públicos](https://img.shields.io/github/followers/simoneraeder?label=Seguidores&style=for-the-badge&color=0070f3)
+![Estrelas Totais](https://img.shields.io/github/stars/simoneraeder?style=for-the-badge&color=yellow)
+![Commits](https://img.shields.io/github/commit-activity/m/simoneraeder/simoneraeder?label=Atividade&style=for-the-badge&color=green)
 
 </div>
 
