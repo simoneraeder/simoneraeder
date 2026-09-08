@@ -71,6 +71,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Scrum](https://img.shields.io/badge/Scrum-6B4FBB?style=flat-square&logo=scrum&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </div>
 
