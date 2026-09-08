@@ -80,7 +80,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simoneraeder&theme=react-dark&hide_border=true" width="100%" alt="Gráfico de Atividades do GitHub" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simoneraeder&show_icons=true&theme=radial&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simoneraeder&layout=compact&theme=radial&hide_border=true" height="150" alt="Linguagens mais usadas" />
 
 </div>
 
