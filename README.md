@@ -70,7 +70,6 @@
 #### **Dados & Gestão**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP-0FA strip?style=flat-square&logo=sap&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6B4FBB?style=flat-square&logo=scrum&logoColor=white)
 
 </div>
