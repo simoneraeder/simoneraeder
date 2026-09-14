@@ -86,8 +86,11 @@
 
 ---
 ### 📊 **Estatísticas do GitHub**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simoneraeder&theme=synthwave)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=simoneraeder&theme=synthwave" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ### 📁 **Projetos em Destaque**
