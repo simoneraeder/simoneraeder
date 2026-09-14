@@ -87,10 +87,7 @@
 ---
 ### 📊 **Estatísticas do GitHub**
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simoneraeder&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simoneraeder&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simoneraeder&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ### 📁 **Projetos em Destaque**
