@@ -87,7 +87,7 @@
 ---
 ### 📊 **Estatísticas do GitHub**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simoneraeder&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simoneraeder&theme=dracula)](https://git.io/streak-stats)
 ---
 
 ### 📁 **Projetos em Destaque**
