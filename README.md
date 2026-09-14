@@ -88,7 +88,7 @@
 ### 📊 **Estatísticas do GitHub**
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=simoneraeder&theme=synthwave" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=simoneraeder&theme=synthwave&locale=pt_br" alt="GitHub Streak" />
   </a>
 </p>
 ---
