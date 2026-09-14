@@ -87,10 +87,10 @@
 ---
 ### 📊 **Estatísticas do GitHub**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simoneraeder&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneraeder&layout=compact&theme=tokyonight&hide_progress=false" alt="Linguagens mais usadas" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simoneraeder&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simoneraeder&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
+</p>
 ---
 
 ### 📁 **Projetos em Destaque**
