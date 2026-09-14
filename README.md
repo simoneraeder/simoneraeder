@@ -88,13 +88,9 @@
 ### 📊 **Estatísticas do GitHub**
 
 <div align="center">
-
-![Repositórios Públicos](https://img.shields.io/github/followers/simoneraeder?label=Seguidores&style=for-the-badge&color=0070f3)
-![Estrelas Totais](https://img.shields.io/github/stars/simoneraeder?style=for-the-badge&color=yellow)
-![Commits](https://img.shields.io/github/commit-activity/m/simoneraeder/simoneraeder?label=Atividade&style=for-the-badge&color=green)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=simoneraeder&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneraeder&layout=compact&theme=tokyonight&hide_progress=false" alt="Linguagens mais usadas" height="180" />
 </div>
-
 ---
 
 ### 📁 **Projetos em Destaque**
